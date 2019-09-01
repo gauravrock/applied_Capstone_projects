@@ -453,7 +453,7 @@ To demonstrate user selection of places of interest, We will use this Food Venue
  * Other food venues
 
 List of my FourSquare Data collection saved in Github can be found in the following location:
- * https://github.com/crismag/Coursera_Capstone/tree/master/saved_data
+ * https://github.com/gauravrock/applied_Capstone_projects/tree/master/saved_data
 
 I used the FourSquare API to retrieve venue scores of locations. Note that there is max query limit of 50 in FourSquare API for free subscription. So use or query carefully.
 
@@ -892,7 +892,7 @@ I used the FourSquare API to retrieve venue scores of locations. Note that there
 
 #### What are the top 20 most common venue types?
 
-<img src = "https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/top10_reco_venue_food_category.png" width = 800, align = "center">
+<img src = "https://github.com/gauravrock/applied_Capstone_projects/blob/master/saved_data/top10_reco_venue_food_category.png" width = 800, align = "center">
 <pre>
     category
     Food Courts              92
@@ -918,7 +918,7 @@ I used the FourSquare API to retrieve venue scores of locations. Note that there
 </pre>
 #### What are the top 20 venues given with highest score rating?
 
-<img src = "https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/top_town_venue_reccount.png" width = 800, align = "center">
+<img src = "https://github.com/gauravrock/applied_Capstone_projects/blob/master/saved_data/top10_reco_venue_food_category.png" width = 800, align = "center">
 
 <pre>
     Town           category            
@@ -2426,10 +2426,10 @@ ________
 </table>
 </div>
 
-<img src = "https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/clustered_vicimap.png" width = 800, align = "center">
-<a href="https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/singapore_food_venues.600Scores.Category.csv" target="_blank">Download Github:singapore_food_venues</a>
-<a href="https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/singapore_outdoorAndRecration.Category.noscore.csv" target="_blank">Download Github:singapore_outdoorAndRecreation</a>
-<a href="https://raw.githubusercontent.com/crismag/Coursera_Capstone/master/saved_data/singapore_Nightlife_by_town.Category.csv" target="_blank">Download Github:singapore_Nightlife</a>
+<img src = "https://github.com/gauravrock/applied_Capstone_projects/blob/master/saved_data/clustered_vicimap.png" width = 800, align = "center">
+<a href="https://github.com/gauravrock/applied_Capstone_projects/blob/master/saved_data/singapore_food_venues.600Scores.Category.csv" target="_blank">Download Github:singapore_food_venues</a>
+<a href="https://github.com/gauravrock/applied_Capstone_projects/blob/master/saved_data/singapore_outdoorAndRecration.Category.noscore.csv" target="_blank">Download Github:singapore_outdoorAndRecreation</a>
+<a href="https://github.com/gauravrock/applied_Capstone_projects/blob/master/saved_data/singapore_Nightlife_by_town.Category.csv" target="_blank">Download Github:singapore_Nightlife</a>
 
 ________
 
